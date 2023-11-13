@@ -1,0 +1,16 @@
+import React from 'react'
+
+const BlogPage = () => {
+    return (
+        <div className='container'>
+            <h1>ブログ</h1>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ratione dolor nobis itaque dolores, ex autem praesentium quaerat corporis fuga fugiat rem quos similique distinctio aspernatur blanditiis nemo omnis sed optio reiciendis laboriosam. Porro dicta repellat magni minima distinctio esse ipsa iste eius? Itaque cumque quam maxime architecto, optio dolores corrupti esse laborum consequuntur quaerat reprehenderit eius. Illum repellat quos sunt molestiae iste, omnis minus id quidem commodi quas blanditiis dolor doloribus optio natus illo laborum nihil magni eos nulla placeat? Eaque deserunt nemo, laboriosam obcaecati praesentium est nostrum libero eius debitis porro dolorum, possimus sapiente voluptate error numquam ipsum?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ratione dolor nobis itaque dolores, ex autem praesentium quaerat corporis fuga fugiat rem quos similique distinctio aspernatur blanditiis nemo omnis sed optio reiciendis laboriosam. Porro dicta repellat magni minima distinctio esse ipsa iste eius? Itaque cumque quam maxime architecto, optio dolores corrupti esse laborum consequuntur quaerat reprehenderit eius. Illum repellat quos sunt molestiae iste, omnis minus id quidem commodi quas blanditiis dolor doloribus optio natus illo laborum nihil magni eos nulla placeat? Eaque deserunt nemo, laboriosam obcaecati praesentium est nostrum libero eius debitis porro dolorum, possimus sapiente voluptate error numquam ipsum?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ratione dolor nobis itaque dolores, ex autem praesentium quaerat corporis fuga fugiat rem quos similique distinctio aspernatur blanditiis nemo omnis sed optio reiciendis laboriosam. Porro dicta repellat magni minima distinctio esse ipsa iste eius? Itaque cumque quam maxime architecto, optio dolores corrupti esse laborum consequuntur quaerat reprehenderit eius. Illum repellat quos sunt molestiae iste, omnis minus id quidem commodi quas blanditiis dolor doloribus optio natus illo laborum nihil magni eos nulla placeat? Eaque deserunt nemo, laboriosam obcaecati praesentium est nostrum libero eius debitis porro dolorum, possimus sapiente voluptate error numquam ipsum?</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum ratione dolor nobis itaque dolores, ex autem praesentium quaerat corporis fuga fugiat rem quos similique distinctio aspernatur blanditiis nemo omnis sed optio reiciendis laboriosam. Porro dicta repellat magni minima distinctio esse ipsa iste eius? Itaque cumque quam maxime architecto, optio dolores corrupti esse laborum consequuntur quaerat reprehenderit eius. Illum repellat quos sunt molestiae iste, omnis minus id quidem commodi quas blanditiis dolor doloribus optio natus illo laborum nihil magni eos nulla placeat? Eaque deserunt nemo, laboriosam obcaecati praesentium est nostrum libero eius debitis porro dolorum, possimus sapiente voluptate error numquam ipsum?</p>
+        </div>
+    );
+}
+
+export default BlogPage
